@@ -28,4 +28,4 @@ https://github.com/halerichard
 
 Promotion:
 
-https://raw.githubusercontent.com/halerichard/Hi-Run/master/Images/Promotion.png
+![pic](https://raw.githubusercontent.com/halerichard/Hi-Run/master/Images/Promotion.png)
