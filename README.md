@@ -20,3 +20,12 @@ Note: Continued use of GPS running in the background can dramatically decrease b
 Support:
 
 https://github.com/halerichard
+
+
+
+
+
+
+Promotion:
+
+https://raw.githubusercontent.com/halerichard/Hi-Run/master/Images/Promotion.png
